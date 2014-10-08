@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# geim
+#
+
+projectname: geim
+vendorid: com.milo.geim
+mainmodule: com.milo.geim.geim
